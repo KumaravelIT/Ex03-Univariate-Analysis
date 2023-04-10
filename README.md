@@ -36,29 +36,47 @@ sns.histplot(x="Row ID", data=df)
 # Output
 Dataset
 
+![](https://github.com/KumaravelIT/Ex03-Univariate-Analysis/blob/main/1.jpg)
+
 Dataset info
+
+![](https://github.com/KumaravelIT/Ex03-Univariate-Analysis/blob/main/2.jpg)
+
 
 
 Dataset describe
 
+![](https://github.com/KumaravelIT/Ex03-Univariate-Analysis/blob/main/3.jpg)
+
+
 Null value
 
+![](https://github.com/KumaravelIT/Ex03-Univariate-Analysis/blob/main/4.jpg)
 
 Data types
 
+![](https://github.com/KumaravelIT/Ex03-Univariate-Analysis/blob/main/5.jpg)
 
 Value count
 
+![](https://github.com/KumaravelIT/Ex03-Univariate-Analysis/blob/main/6.jpg)
+
 Boxplot
 
+![](https://github.com/KumaravelIT/Ex03-Univariate-Analysis/blob/main/7.jpg)
 
 Count plot
 
+![](https://github.com/KumaravelIT/Ex03-Univariate-Analysis/blob/main/8.jpg)
 
 Distribution plot
 
+![](https://github.com/KumaravelIT/Ex03-Univariate-Analysis/blob/main/9.jpg)
 
 Histogram plot
+
+![](https://github.com/KumaravelIT/Ex03-Univariate-Analysis/blob/main/99.jpg)
+
 
 # Result
 Thus we have read the given data and performed the univariate analysis with different types of
